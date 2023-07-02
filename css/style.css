@@ -1,8 +1,4 @@
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    *****************
-*/
+
 * {
   margin: 0px;
   padding: 0px;
@@ -85,7 +81,7 @@ nav .header_right .algos button {
   color: white;
   outline: none;
   padding: 5% 0%;
-  font-size: x-large;
+  font-size: 1.5vw;
 }
 
 nav .header_right .algos button:hover {
@@ -170,25 +166,3 @@ section #Info_Cont2 h3 {
   display: none;
 }
 
-/*
-@media (max-width: 480px)//Mobiles
-{
-    
-}
-
-@media (min-width: 481px) and (max-width: 1250px)//Tablets
-{
-
-}
-
-@media (min-width: 1251px)//Laptops and up
-{
-
-}
-*/
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    *****************
-*/
-/*# sourceMappingURL=style.css.map */
