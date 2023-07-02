@@ -17,8 +17,11 @@ Features:
   1.4) Green: In correct position
 2) 3 Controls for visualizations
   2.1) Speed of visualization (5 speed levels)
+   
   2.2) Data size ()
+  
   2.3) Generation of new data (Randomly generate new data).
+  
 4) Time and Space complexity of algorithm being visualized.
 
 
