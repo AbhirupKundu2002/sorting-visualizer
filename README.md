@@ -1,6 +1,8 @@
 # sorting-visualizer
 A web application showcasing the inner workings of sorting algorithms.
 
+Live Application: https://abhirupkundu2002.github.io/sorting-visualizer/
+
 Implemented algorithms:
 1) Bubble sort
 2) Selection sort
@@ -31,7 +33,6 @@ Features:
 3) Time and Space complexity of algorithm being visualized.
 
 
-Live Application: https://abhirupkundu2002.github.io/sorting-visualizer/
 
 <div align='center'>
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif">
