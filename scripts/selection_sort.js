@@ -1,10 +1,3 @@
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/
-
 function Selection_sort()
 {
     //Setting Time complexities
