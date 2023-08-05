@@ -51,9 +51,3 @@ function Insertion()
     enable_buttons();
 }
 
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/
